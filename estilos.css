@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .bienvenida {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .lista {
+    color: white;
+  }
+  
+  .lista a {
+    color: white;
+    text-decoration: none;
+  }
+  
